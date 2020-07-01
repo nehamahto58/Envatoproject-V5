@@ -271,6 +271,7 @@
     padding: 15px 60px;
     font-size: 24px;
     margin-bottom: 20px;
+    margin-left: 8px;
     }
     #appoint:hover{
         color: gray;
@@ -290,8 +291,6 @@
     
     .form-container label{
     display: block;
-    width: 69.81px;
-    height: 21.94px;
     font-family: Century Gothic;
     font-style: normal;
     font-weight: bold;
@@ -304,24 +303,21 @@
         height: 160px;
     }
     .haircut-service{
-    width: 537px;
-    height: 410px;
+        height: 410px;
     background: #FFFFFF;
     border: 2px solid rgba(225, 59, 99, 0.3);
     box-sizing: border-box;
     border-radius: 10px;
-    
     }
     .hairstyling-service{
-    width: 537px;
-    height: 410px;
+        height: 410px;
     background: #FFFFFF;
     border: 2px solid rgba(225, 59, 99, 0.3);
     box-sizing: border-box;
     border-radius: 10px;
     }
     .beard-service{
-    width: 1124px;
+    width: 1024px;
     height: 410px;
     background: #FFFFFF;
     border: 2px solid rgba(225, 59, 99, 0.3);
@@ -329,7 +325,7 @@
     border-radius: 10px;
     }
     .our_best_services p{
-        font-family: Century Gothic;
+     font-family: Century Gothic;
     font-style: normal;
     font-weight: normal;
     font-size: 18px;
@@ -337,15 +333,6 @@
     text-align: center;
     color: rgba(0, 0, 0, 0.8);
     margin-top: 3rem;
-    }
-    .our_best_services h5{
-    font-family: Poppins;
-    font-style: normal;
-    font-weight: bold;
-    font-size: 32px;
-    line-height: 48px;
-    color: #E13B63;
-    margin-top: 10px;
     }
     .card-body img{
         cursor: pointer;
