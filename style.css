@@ -179,6 +179,7 @@
         margin-bottom: 10px;
         text-decoration: none;
     }
+    
 }
 /*------------ABOUT US-----------*/
 .about-text {
@@ -186,7 +187,7 @@
     text-align: center;
     font-size: 15px;
   }
-  .about-text .readbtn{
+.about-text .readbtn{
     color: #ffffff !important;
     padding: 10px 35px !important;
     font-weight: bold;
@@ -231,8 +232,8 @@
     display: inline;
 }
 .card a:hover{
-    color: gray;
-    background-color: black;
+    color: white;
+    background-color: #162838;
 }
 .Book{
         margin-top: 5rem;
@@ -274,8 +275,8 @@
     margin-left: 8px;
     }
     #appoint:hover{
-        color: gray;
-        background-color: black;
+        color: white;
+        background-color: #162838;
     }
     .form-group input, textarea, #messages{
     background: #F9F9F9;
